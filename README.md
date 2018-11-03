@@ -62,3 +62,9 @@
 所有翻译依靠 google 翻译，然后根据个人理解稍作调整而成，内容有所删减，仅供参考！
 
 转载请注明出处！
+
+## opencc 範例
+opencc -i genericviews.md -o genericviews_tw.md -c s2tw.json
+
+## opencc-python
+https://github.com/gogobook/opencc-python/tree/master/opencc
